@@ -1,0 +1,8 @@
+setup.py
+crazycase/__init__.py
+crazycase/__main__.py
+crazycase.egg-info/PKG-INFO
+crazycase.egg-info/SOURCES.txt
+crazycase.egg-info/dependency_links.txt
+crazycase.egg-info/entry_points.txt
+crazycase.egg-info/top_level.txt

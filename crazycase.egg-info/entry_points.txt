@@ -1,0 +1,3 @@
+[console_scripts]
+crazycase = crazycase.__main__:main
+
